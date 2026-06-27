@@ -102,7 +102,7 @@ Key engineering themes demonstrated:
 
 ## Author
 
-**Anmol Dhiman** — AI & Machine Learning Developer
+**  Pratham Vishwakarma ** 
 
 Building systems at the intersection of data science and real-world impact.
 
