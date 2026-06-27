@@ -83,7 +83,7 @@ The app opens at `http://localhost:8501` by default.
 
 Deployed on Streamlit Cloud — no installation required.
 
-**[Open Live App](https://ai-heart-disease-risk-predictor-app-ml-dashboard-01.streamlit.app)**
+**[Open Live App][(https://ai-heart-disease-risk-predictor-app-ml-dashboard-01.streamlit.app](https://ai-heart-diseases-predictor.streamlit.app/)**
 
 ---
 
